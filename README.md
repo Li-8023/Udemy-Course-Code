@@ -1,5 +1,5 @@
 # Udemy-Course-Code
-## Pricing Panel
+## Pricing Panel Website
 ### Code#1
 
 <img width="300" alt="Snipaste_2024-03-24_20-20-23" src="https://github.com/Li-8023/Udemy-Course-Code/assets/80284104/ee38f50a-c556-42e2-9794-e027e62eb25a">
